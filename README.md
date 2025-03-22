@@ -1,2 +1,2 @@
-# C-
+# C++
 Data Structures in C++
